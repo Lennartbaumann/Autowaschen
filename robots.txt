@@ -1,1 +1,21 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /backend/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /api/
+Disallow: /*.php$
+Disallow: /*.cgi$
+Disallow: /*.asp$
+Disallow: /*.aspx$
 
+# Optional: Verhindert das Indexieren von URL-Parametern (falls relevant)
+Disallow: /*?*
+Disallow: /*&*
+
+# Erlaubt CSS und JS für ein korrektes Rendering
+Allow: /*.css$
+Allow: /*.js$
+
+# Sitemap angeben
+Sitemap: https://autowaschen.pages.dev/sitemap.xml
