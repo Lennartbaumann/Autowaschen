@@ -103,5 +103,9 @@ footer {
 }
 </style>
 
-<!-- Google Site Verification -->
-<meta name="google-site-verification" content="google9b3d9e50bd4bd4ac" />
+<template>
+  <head>
+    <!-- Google Site Verification -->
+    <meta name="google-site-verification" content="google9b3d9e50bd4bd4ac" />
+  </head>
+</template>
