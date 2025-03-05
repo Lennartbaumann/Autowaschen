@@ -102,3 +102,6 @@ footer {
   box-shadow: 0px -2px 10px rgba(0, 0, 0, 0.2);
 }
 </style>
+
+<!-- Google Site Verification -->
+<meta name="google-site-verification" content="google9b3d9e50bd4bd4ac" />
