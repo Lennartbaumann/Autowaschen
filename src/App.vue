@@ -106,6 +106,6 @@ footer {
 <template>
   <head>
     <!-- Google Site Verification -->
-    <meta name="google-site-verification" content="google9b3d9e50bd4bd4ac" />
+    <meta name="google-site-verification" content="hIASNx_P8PSKbi0Kg7I8UkhaBF7FQXTkvsnN9-eWpkI" />
   </head>
 </template>
