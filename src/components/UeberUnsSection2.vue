@@ -5,18 +5,18 @@
           
           <!-- Beschreibung von Luc Pullem -->
           <div class="w-full md:w-2/3 text-left flex flex-col justify-center">
-            <h2 class="text-5xl font-extrabold text-primary mb-6 leading-tight">Luc Pullem: Perfektion in jeder Linie</h2>
+            <h2 class="text-5xl font-extrabold text-primary mb-6 leading-tight">Luc Pullem: Perfektion trifft Innovation</h2>
             <p class="text-lg text-gray-300 leading-relaxed mb-6">
-              <strong>Luc Pullem</strong> ist weit mehr als ein Name – er ist eine Institution. Seine unvergleichliche Hingabe zur Fahrzeugveredelung setzt 
-              neue Maßstäbe in einer Branche, die Exzellenz verlangt.
+              <strong>Luc Pullem</strong> steht für automobile Perfektion und höchste Handwerkskunst – besonders in der Region Siegburg und dem Rhein-Sieg-Kreis. 
+              Hier vereinen sich Präzision, Leidenschaft und modernste Techniken zu einem unvergleichlichen Ergebnis.
             </p>
             <p class="text-lg text-gray-300 leading-relaxed mb-6">
-              Mit jahrelanger Erfahrung und kompromisslosem Qualitätsanspruch hebt Luc Fahrzeuge auf ein völlig neues Niveau. Jedes Detail, jede Oberfläche, 
-              jedes Finish ist das Ergebnis höchster Präzision und Leidenschaft.
+              Dank langjähriger Erfahrung und einem einzigartigen Gespür für Details werden Fahrzeuge nicht nur restauriert, sondern auf ein völlig neues Niveau gehoben. 
+              Von maßgeschneiderten Lackierungen bis zur ultimativen Veredelung – jedes Projekt ist ein Statement für Perfektion.
             </p>
             <p class="text-lg text-gray-300 leading-relaxed">
-              Ob Luxuslimousine, Sportwagen oder Klassiker – unter seinen Händen wird jedes Fahrzeug nicht nur restauriert, sondern perfektioniert. 
-              Perfektion ist für Luc Pullem kein Ziel, sondern der Standard.
+              Exklusive Sportwagen, luxuriöse Limousinen oder wertvolle Oldtimer – Luc Pullem erschafft Unikate, die nicht nur optisch begeistern, sondern 
+              auch in Sachen Wertigkeit und Individualität neue Maßstäbe setzen.
             </p>
           </div>
 
